@@ -234,7 +234,7 @@ body {
       @apply w-7xl 2xl:w-[100rem] h-[50vh] lg:h-screen relative;
 
       img {
-        @apply max-w-40 lg:max-w-[27rem] 2xl:max-w-[35rem] object-cover object-center;
+        @apply max-w-40 lg:max-w-[24rem] 2xl:max-w-[32rem] object-cover object-center;
       }
 
       .p1 {
