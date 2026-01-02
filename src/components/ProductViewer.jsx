@@ -63,7 +63,7 @@ const ProductViewer = () => {
 
       <Canvas
         id="canvas"
-        camera={{ position: [0, 2, 5], fov: 50, near: 0.1, far: 1000 }}
+        camera={{ position: [0, 3, 5], fov: 50, near: 0.1, far: 1000 }}
       >
         <StudioLights />
         {/* <MacbookModel14 position={[0, 0, 0]} scale={0.06} /> */}
